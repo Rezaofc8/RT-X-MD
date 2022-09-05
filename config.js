@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6285706735450', 'bot by verdi hatoru || xziro', true]
+  ['6289606790112', 'EzaBot-MD by RezaOfc', true]
   // [owner bukan bot!]
 ] // paste nomor di sini
 global.mods = [] // bantuan?
@@ -20,9 +20,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Wm untuk stiker
-global.tio = '© dev'
+global.tio = '© EzaBot-MD'
 global.packname = 'fore'
-global.author = '© Xziro chan'
+global.author = '© RezaOfc'
 
 global.multiplier = 70 // Semakin Tinggi levelmu semakin naik
 
